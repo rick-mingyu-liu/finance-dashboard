@@ -1,7 +1,7 @@
 introduction: 
 ---------------------------------------------------------------------------------------------------------------------------------------
 this is the full stack version of the project
-
+---------------------------------------------------------------------------------------------------------------------------------------
  Designed and implemented dynamic, responsive visualizations using MUI, Recharts, Vite, and React, creating stylized lucid charts and tables to display key financial performance indicators for the company
  
 • Built and maintained the backend server using Node.js and Express.js, effectively managing API requests. The entire project was primarily developed using TypeScript, ensuring robust and scalable architecture.
